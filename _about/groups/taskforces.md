@@ -39,7 +39,7 @@ ones, are listed on each Working Group's home page.
 :   Assisting Working Groups to address web accessibility issues
     specific to people with low vision.
 
-**[Mobile Accessibility Task Force](http://www.w3.org/WAI/GL/mobile-a11y-tf/)** under the [AG Working Group](/about/groups/agwg/)
+**[Mobile Accessibility Task Force](http://www.w3.org/WAI/task-forces/matf/)** under the [AG Working Group](/about/groups/agwg/)
 :   Assisting Working Groups to produce techniques, understanding, and
     guidance documents, as well as updates to existing related W3C
     material that addresses the mobile space.
