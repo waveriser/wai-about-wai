@@ -2,7 +2,8 @@
 
 ## In context:
 
-The wai-website repository imports this reposity as a git submodule, pages and content-images are symlinked so that Jekyll can take them up.
+The wai-website repository imports this reposity as a git submodule, pages and content-images are symlinked so that 0
+ can take them up.
 
 ```
 ╔═════════════════════════╗                      ┌─────────────────────────┐
